@@ -52,7 +52,31 @@ El análisis se desarrolló en tres etapas principales:
 - Empleos híbridos/remotos tienen mejores remuneraciones promedio que los presenciales.
 
 ---
+## 📈 Integración con Power BI (Dashboard Final)
 
+Después de completar el proceso en Python, los datos fueron exportados y utilizados para crear un **dashboard interactivo en Power BI**.
+
+### 🔧 Acciones realizadas en Power BI
+
+#### **Power Query**
+- Corrección de pequeños errores y formatos en las columnas
+- Ajuste de tipos de datos
+- Eliminación de inconsistencias menores
+
+#### **DAX**
+Se crearon varias medidas personalizadas para enriquecer el análisis, entre ellas:
+- Promedio salarial por rol
+- Promedio salarial por modalidad
+- Rango salarial por ubicación
+- Conteos de vacantes por categoría
+- Medidas para filtros dinámicos del dashboard
+
+### 🖼️ Capturas del Dashboard
+![Dashboard General]()
+![Salarios por Ubicación](ruta/imagen2.png)
+![Salarios por Modalidad](ruta/imagen3.png)
+
+---
 ## Archivos del Proyecto
 - `Data/` : Carpeta con datasets originales y procesados  
 - `Analisis_Exploratorio.ipynb` : Análisis exploratorio (EDA)  
