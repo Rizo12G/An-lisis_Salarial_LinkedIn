@@ -73,9 +73,9 @@ Se crearon varias medidas personalizadas para enriquecer el análisis, entre ell
 
 ### 🖼️ Capturas del Dashboard
 ![Dashboard General]()
-![Salarios por Ubicación](ruta/imagen2.png)
-![Salarios por Modalidad](ruta/imagen3.png)
-
+![Ubicación](ruta/imagen2.png)
+![Modalidad](ruta/imagen3.png)
+![Final]()
 ---
 ## Archivos del Proyecto
 - `Data/` : Carpeta con datasets originales y procesados  
